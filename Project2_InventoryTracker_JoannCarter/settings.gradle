@@ -1,0 +1,2 @@
+rootProject.name='Project2_InventoryTracker_JoannCarter'
+include ':app'

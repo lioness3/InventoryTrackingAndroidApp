@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5499C7</color> // sky blue
+    <color name="colorPrimaryDark">#1A5276 </color> //navy blue
+    <color name="colorAccent">#82E0AA </color>  // lime green
+    <color name="colorAdd">#229954</color>  //dark green
+    <color name="colorDelete">#880808</color> //red
+    <color name="colorLGrey">#EAECEE</color> //light grey
+    <color name="colorDGrey"> #566573</color> //dark grey
+    <color name="colorCaution"> #F8B310</color>  // orange
+</resources>
